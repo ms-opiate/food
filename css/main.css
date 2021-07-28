@@ -1,0 +1,531 @@
+.header_nav__login {
+  border-color: #ED9737;
+}
+.header_nav__basket {
+  background-color: #ED9737;
+}
+
+.reccomend_subtitle {
+  color: #ED9737;
+}
+.reccomend_basket {
+  background-color: #ED9737;
+}
+
+.menu-categories .top {
+  border-color: #ED9737;
+}
+.menu-categories_title {
+  color: #ED9737;
+}
+.menu-categories_link {
+  color: #ED9737;
+}
+.menu-categories_card:hover {
+  background-color: #ED9737;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.menu-ingredients_title {
+  color: #ED9737;
+}
+.menu-ingredients__item {
+  border-color: #ED9737;
+}
+.menu-ingredients__item .name {
+  color: #ED9737;
+}
+
+.menu-new_title {
+  color: #ED9737;
+}
+.menu-new_card {
+  background-color: #ED9737;
+}
+
+.circe-block {
+  background-color: #ED9737;
+}
+
+.menu-popular_filter {
+  color: #ED9737;
+  border-color: #ED9737;
+}
+
+.menu-cards_pages__link:hover {
+  background-color: #ED9737;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.menu_card_pages__link.selected {
+  background-color: #ED9737;
+}
+.menu_card:hover {
+  background-color: #ED9737;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.menu-cards_pages__link.selected {
+  background-color: #ED9737;
+}
+
+.corner-pic {
+  fill: #fef8f2;
+}
+
+.menu-cards_pages__link:hover {
+  background-color: #ED9737;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.menu-discount_title {
+  color: #ED9737;
+}
+
+.menu-discount_form {
+  background-color: #ED9737;
+}
+.menu-discount_input {
+  background-color: #ED9737;
+}
+.menu-discount_btn {
+  color: #ED9737;
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: #ED9737;
+}
+
+.instagram-block_link {
+  border-color: #ED9737;
+}
+
+.about-company_list_link.selected {
+  color: #ED9737;
+  border-color: #ED9737;
+}
+.about-company_subtitle {
+  color: #ED9737;
+}
+.about-company_link {
+  background-color: #ED9737;
+}
+.about-company_list_link {
+  color: #f5c895;
+}
+@media (max-width: 600px) {
+  .about-company_list_link {
+    color: #ED9737;
+  }
+}
+
+.about-company_link-wrp:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.footer-top-wrp {
+  background-color: #efa34e;
+}
+@media (max-width: 600px) {
+  .footer-top-wrp {
+    background-color: #ED9737;
+  }
+}
+
+.subscription-form_input {
+  background-color: #efa34e;
+}
+
+.footer-middle-wrp {
+  background-color: #ED9737;
+}
+
+.footer-middle_discount__sum {
+  color: #ED9737;
+}
+
+.footer-middle_discount_btn {
+  border-color: #ED9737;
+}
+
+.header_logo-svg {
+  fill: #ED9737;
+  stroke: #ED9737;
+}
+
+.header_logo-svg:hover {
+  fill: #f1af66;
+  stroke: #f1af66;
+}
+
+.header_nav__login-svg {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  fill: #ED9737;
+  stroke: #ED9737;
+}
+
+.header_nav__basket {
+  stroke: #ED9737;
+}
+
+.reccomend_basket-svg {
+  stroke: #ED9737;
+}
+
+.chef-svg {
+  fill: #ED9737;
+}
+
+.arrow-svg {
+  fill: #ED9737;
+}
+
+.add-btn-circe {
+  fill: #ED9737;
+}
+
+.menu_card:hover .add-btn-path {
+  fill: #ED9737;
+}
+
+.footer-bottom-wrp {
+  background-color: #efa34e;
+}
+@media (max-width: 600px) {
+  .footer-bottom-wrp {
+    background-color: #ED9737;
+  }
+}
+
+.menu-card_btn-img.favourite {
+  fill: #ED9737;
+}
+
+.header-fixed {
+  border-color: #ED9737;
+}
+
+.reccomend_chef-pic {
+  background-color: #ED9737;
+}
+
+.pizza-pic {
+  border-color: #ED9737;
+}
+
+.mobile-swipe_text {
+  color: #ED9737;
+}
+
+.mobile-swipe-reccom-dish_text {
+  color: #ED9737;
+}
+
+.menu-cards-mobile-text {
+  color: #ED9737;
+}
+
+.menu-new-swipe-text {
+  color: #ED9737;
+}
+
+.popular_cards-text {
+  color: #ED9737;
+}
+
+.swiper-button-next.reccom-dish svg {
+  fill: #ED9737;
+}
+
+.swiper-button-next svg {
+  stroke: #ED9737;
+}
+
+.swiper-button-prev.arr-menu-new {
+  stroke: #ED9737;
+}
+
+.swiper-button-prev.menu-cards-arr {
+  fill: #ED9737;
+}
+
+.swiper-button-next.arr-menu-new-mobile svg {
+  fill: #ED9737;
+  stroke: #ED9737;
+}
+
+.breadcrumb-item a {
+  color: #ED9737;
+}
+
+.breadcrumb-item.active {
+  color: #ED9737;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  color: #ED9737;
+}
+
+.category-filter_title {
+  color: #ED9737;
+}
+
+.category-filter_list__item {
+  color: #ED9737;
+  border-color: #ED9737;
+}
+
+.menu-ingredients_details__text {
+  color: #ED9737;
+}
+
+.filter-list__item span {
+  color: #f5c895;
+}
+
+.history_title {
+  color: #ED9737;
+  border-color: #ED9737;
+}
+
+.history_menu-card:hover {
+  background-color: #ED9737;
+}
+
+.another-footer {
+  background-color: #ED9737;
+}
+
+.header_nav__link:hover {
+  color: #ED9737;
+}
+
+.footer {
+  background-color: #ED9737;
+}
+
+.menu-cards-arr-next {
+  fill: #ED9737;
+}
+
+.delivery_title {
+  color: #ED9737;
+}
+.delivery-card:hover {
+  background-color: #ED9737;
+  border-radius: 45px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+.delivery-info_title {
+  color: #ED9737;
+}
+.delivery-info_subtitle-bg {
+  color: #ED9737;
+}
+.delivery-payment_icon {
+  border-color: #ED9737;
+}
+@media (max-width: 600px) {
+  .delivery-payment_icon {
+    border-color: #ED9737;
+  }
+}
+.delivery-payment_icon:hover {
+  border-color: #ED9737;
+}
+.delivery_subtitle:last-child {
+  color: #ED9737;
+}
+
+.mobile-swiper-delivery-text {
+  color: #ED9737;
+}
+
+.clients_title {
+  color: #ED9737;
+}
+
+.category-filter_list__item-svg {
+  fill: #ED9737;
+}
+
+.clients-faq-list_link {
+  color: #ED9737;
+  border-color: #ED9737;
+}
+.clients-faq-list_link:hover {
+  background-color: #ED9737;
+}
+
+.clients-faq_accordion {
+  border-color: #ED9737;
+}
+
+.accordion-item:not(:last-child) {
+  border-color: #ED9737;
+}
+
+.delivery-icon {
+  fill: #ED9737;
+}
+
+.delivery-circe {
+  stroke: #ED9737;
+}
+
+.delivery-info-item-path {
+  fill: #ED9737;
+}
+
+.delivery-info-item-circe {
+  stroke: #ED9737;
+}
+
+.about-company_list_link:hover {
+  color: #ED9737;
+}
+
+.clients-faq_accordion-text {
+  color: #ED9737;
+}
+
+.promotions_title {
+  color: #ED9737;
+}
+
+.promotions-cards-text {
+  color: #ED9737;
+}
+
+.addresses_title {
+  color: #ED9737;
+}
+.addresses_item {
+  color: #ED9737;
+  border-color: #ED9737;
+}
+.addresses_item:hover {
+  background-color: #ED9737;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+.addresses_item-btn {
+  background-color: #ED9737;
+}
+
+.opening-hours a {
+  color: #ED9737;
+}
+
+.addresses-arr-text {
+  color: #ED9737;
+}
+
+.title {
+  color: #ED9737;
+}
+
+.vacancies_questionnaire {
+  background-color: #ED9737;
+}
+
+.questionnaire_btn {
+  color: #ED9737;
+}
+
+.vacancies-item_title {
+  border-color: #ED9737;
+}
+
+.vacancies-arr-text {
+  color: #ED9737;
+}
+
+.partnership_title {
+  color: #ED9737;
+}
+
+.partnership-input {
+  border-color: #ED9737;
+}
+
+.partnership-button {
+  background-color: #ED9737;
+}
+
+.contacts_title {
+  color: #ED9737;
+}
+
+.contacts_socials__link {
+  fill: #ED9737;
+}
+
+.contacts_socials__link a {
+  fill: #ED9737;
+}
+
+.nutritional-block {
+  border-color: #ED9737;
+}
+
+.order-name:nth-child(2) {
+  color: #ED9737;
+}
+@media (max-width: 600px) {
+  .order-name:nth-child(2) {
+    color: #000000;
+  }
+}
+
+.nutritional-block {
+  color: #ED9737;
+}
+
+.weight-block {
+  background-color: #ED9737;
+}
+@media (max-width: 600px) {
+  .weight-block {
+    background-color: #ffffff;
+    color: #ED9737;
+  }
+}
+
+.modal-footer_title {
+  color: #ED9737;
+}
+
+.modal-footer {
+  border-color: #ED9737;
+}
+
+.order-btn {
+  background-color: #ED9737;
+}
+
+.order_nutritional {
+  border-color: #ED9737;
+}
+
+.catalog_card_info {
+  color: #ED9737;
+}
+
+.catalog_card_info:first-child {
+  width: 45%;
+  border-color: #ED9737;
+}
+
+.dropdown-catalog_card:hover {
+  background-color: #ED9737;
+}
