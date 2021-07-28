@@ -11,6 +11,6 @@
 - Html
 - CSS
 - Sass
-- Bootstrap 5
+- Bootstrap
 - swiperjs.com — плагин слайдера на JavaScript
 - jQuery
